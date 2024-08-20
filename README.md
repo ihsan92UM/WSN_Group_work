@@ -1,4 +1,3 @@
-# WSN_Group_work
 # Team Members
 
 - **Ihsan Ahmad Siddiquee** - 5120360 (NES)
