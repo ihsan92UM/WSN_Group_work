@@ -1,6 +1,7 @@
 # WSN_Group_work
+# Team Members
 
-*CSV data format*
+- **Ihsan Ahmad Siddiquee** - 5120360 (NES)
+- **Fraser Kagoo Emerson** - 5206379 (NES)
+- **Tim Sprung** - 4722578 (IST)
 
-| timestamp | RSSI | LQI | Ax | Ay | Az | Gx | Gy | Gz | time |
-|-----------|------|-----|----|----|----|----|----|----|------|
